@@ -1,0 +1,8 @@
+sounddevice
+numpy
+scipy
+pandas
+streamlit
+requests
+pydub
+pymongo

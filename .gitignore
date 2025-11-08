@@ -6,4 +6,5 @@
 *.obj
 *.exe
 *.out
+venv/
 /build/
